@@ -1,0 +1,3 @@
+{'titulo': 'Dom Casmurro', 'autor': 'Machado de Assis', 'isbn': '978-85-7164-316-6', 'ano_publicacao': 1899, 'editora': 'Garnier', 'categoria': 'Romance', 'genero': 'Ficção'}
+{'titulo': '1984', 'autor': 'George Orwell', 'isbn': '978-0-452-28423-4', 'ano_publicacao': 1949, 'editora': 'Secker & Warburg', 'categoria': 'Ficção Científica', 'genero': 'Distopia'}
+{'titulo': 'O Senhor dos Anéis', 'autor': 'J.R.R. Tolkien', 'isbn': '978-0-618-15263-4', 'ano_publicacao': 1954, 'editora': 'Allen & Unwin', 'categoria': 'Fantasia', 'genero': 'Aventura'}

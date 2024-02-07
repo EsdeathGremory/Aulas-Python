@@ -1,0 +1,3 @@
+
+{'Nome do Utilizador': 'Bruno', 'Nome do Livro': 'No Game No Life', 'Data de devolução prevista': datetime.date(2024, 1, 26)}
+{'Nome do Utilizador': 'Esdeath', 'Nome do Livro': 'Akame Ga Kill', 'Data de devolução prevista': datetime.date(2024, 1, 26)}
